@@ -99,7 +99,7 @@ The main dashboard provides a complete overview of social media performance.
 - Age distribution by gender
 - Country-wise social media engagement
 
-![Overall Dashboard](""C:\Users\a\OneDrive\Pictures\social_media_analyis.screenshots\Overall.png"")
+![Overall Dashboard]("C:\Users\a\OneDrive\Pictures\social_media_analyis.screenshots\Overall.png")
 
 ---
 
