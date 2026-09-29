@@ -339,3 +339,8 @@ Based on the complete dataset:
 - Interactive filtering allows engagement patterns to be explored at demographic, professional, hobby and geographic levels.
 
 ---
+
+# Project by:
+
+R Hari Prasanth
+Aspiring Data Analyst
