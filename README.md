@@ -99,8 +99,6 @@ The main dashboard provides a complete overview of social media performance.
 - Age distribution by gender
 - Country-wise social media engagement
 
-![Overall Dashboard](<img width="1417" height="743" alt="Overall" src="https://github.com/user-attachments/assets/7a6d2e61-138b-4d21-9ffa-ce7c3815cdd5" />
-")
 
 ---
 
@@ -125,11 +123,6 @@ The gender filter dynamically updates all dashboard visuals.
 - Age distribution
 - Country-wise engagement
 
-![Female Analysis](Female.png)
-
-![Male Analysis](Male.png)
-
-![Non-Binary Analysis](Non_binary.png)
 
 ---
 
@@ -155,9 +148,6 @@ The dashboard compares:
 **Likes + Shares + Comments by Hobby**
 
 This helps identify how different interest groups interact with social media content.
-
-![Hobby Analysis](overall_hobby_wise.png)
-
 ---
 
 ## 4. Profession-wise Analysis
@@ -185,7 +175,6 @@ The visualization compares:
 
 This helps understand how audience engagement varies across professional groups.
 
-![Profession Analysis](overall_proffesion_wise.png)
 
 ---
 
@@ -206,7 +195,6 @@ For example, selecting **India** updates the dashboard to show India-specific:
 - Hobby engagement
 - Profession engagement
 
-![Country Analysis](overall_country_wise.png)
 
 ---
 
@@ -291,7 +279,6 @@ Calculated:
 
 The project uses a Power BI data model containing the social media analysis dataset and its fields.
 
-![Power BI Model](Model_view.png)
 
 The model contains fields related to:
 
@@ -352,23 +339,3 @@ Based on the complete dataset:
 - Interactive filtering allows engagement patterns to be explored at demographic, professional, hobby and geographic levels.
 
 ---
-
-# 📁 Project Structure
-
-```text
-Social-Media-Analytics/
-│
-├── 📊 Social_media.pbix
-│
-├── 📄 social_media_analysis.csv
-│
-├── 🖼️ Overall.png
-├── 🖼️ Female.png
-├── 🖼️ Male.png
-├── 🖼️ Non_binary.png
-├── 🖼️ Model_view.png
-├── 🖼️ overall_country_wise.png
-├── 🖼️ overall_hobby_wise.png
-├── 🖼️ overall_proffesion_wise.png
-│
-└── 📄 README.md
